@@ -1,11 +1,5 @@
 import java.util.Scanner; //import Scanner class
-/**
- * Name: Gianna Binder
- * File: FinalMajorAssignment
- * Assignment: Final Major Assignment
- * Due Date: January 28th, 2020
- * @author Dragon
- */
+
 public class FinalMajorAssignment {
 
     /**
